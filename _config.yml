@@ -1,5 +1,5 @@
 safe: true
-encoding: utf-8
+encoding: "utf-8"
 
 future: true
 
