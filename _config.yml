@@ -4,8 +4,8 @@ encoding: utf-8
 future: true
 
 defaults:
- -
- scope:
- path: ""
- values:
- layout: "default"
+-
+scope:
+path: ""
+values:
+layout: "default"
