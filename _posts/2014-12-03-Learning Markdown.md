@@ -9,9 +9,10 @@
 
 Markdown 为一个文本转html的标记语言，使用简单的文本就可以转化为XHTML/HTML．
 
-Markdown 由两部分组成：
-* 文本语法
-* 将文本转为HTML的转换器
+>  Markdown 由两部分组成：
+> 
+>  *  文本语法
+>  *  将文本转为HTML的转换器
 
 
 
@@ -34,8 +35,11 @@ Markdown采取两种标记方法：<kbd>Setext</kbd>和<kbd>atx</kbd>．
 **Setext** 采取=和-来标记两级标题．例如：
 
 > `This is an H1`
+> 
 > `=============`
+> 
 > `This is an H2`
+> 
 > `-------------`
 
 **atx** 采取#来标识６级标题．
@@ -125,13 +129,17 @@ Markdown使用4个空格或者1个Tab键即可。
 * 行内链接为：
 
     > `This is [an example](htp://example.com "Title") inline link`
+    
     实际显示为：
+    
     > This is [an example](htp://example.com "Title") inline link
 
 * 参考方式:
 
     > 'This is [an example][id] reference-style link.'
+    
     接着在任何一个地方要把参考的内容定义出来：
+    
     > '[id]: http://example.com/' "Optional title Here"
 
 参考链接定义：
