@@ -151,5 +151,7 @@ Markdown使用4个空格或者1个Tab键即可。
 
 与链接基本类似。差别为前面有一个<kbd>!</kbd>号.
 
-
+### 参考 ###
+[台湾markdown说明](http://markdown.tw/)
+[markdown在线编译器](https://stackedit.io)
 
