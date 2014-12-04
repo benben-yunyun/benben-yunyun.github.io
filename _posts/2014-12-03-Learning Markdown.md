@@ -28,19 +28,19 @@ Markdown采取两种标记方法：Setext 和　atx．
 
 * Setext 采取=和-来标记两级标题．
 
-This is an H1
-=============
-
-This is an H2
--------------
+    This is an H1
+    =============
+    
+    This is an H2
+    -------------
 
 * atx　采取#来标识６级标题．
 
-# This is an H1
-# This is an H2
-###### This an H6
-
-#### BLOCKQUOTES
+    # This is an H1
+    # This is an H2
+    ###### This an H6
+    
+    #### BLOCKQUOTES
 
 Markdown 使用>标记块．
 
